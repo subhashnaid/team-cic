@@ -19,6 +19,7 @@ Flask-SQLAlchemy==3.1.1
 Flask-WTF==1.2.2
 greenlet==3.1.1
 gTTS==2.5.4
+gunicorn==21.2.0    # ADDED Gunicorn for production deployment
 h11==0.14.0
 idna==3.10
 itsdangerous==2.2.0
