@@ -45,7 +45,7 @@ PySocks==1.7.1
 python-dateutil==2.9.0.post0
 pyttsx3==2.98
 pytz==2025.1
-pywin32==306
+pywin32==306 ; platform_system == "Windows"
 PyYAML==6.0.2
 regex==2024.11.6
 requests==2.32.3
